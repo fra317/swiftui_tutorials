@@ -22,5 +22,5 @@ struct LezioneDetail: View {
 }
 
 #Preview {
-    LezioneDetail(lezione: Lezione(name: "Titolo", description: "dajdiuawi awd uisaui ius dia dsjijin dsaijndijajiodas jiijosad ijoajio dsa", emoji: "☎️"))
+    LezioneDetail(lezione: Lezione(name: "Titolo", description: "dajdiuawi awd uisopaopsopaskopasopas saui ius dia dsjijin dsaijndijajiodas jiijosad ijoajio dsa", emoji: "☎️"))
 }
